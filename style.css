@@ -32,6 +32,7 @@ figcaption {
 
 
 #details > div {
+  display:flex;
   float: left;
   background-color: red;
   padding: 20px;
