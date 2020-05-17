@@ -32,11 +32,11 @@ figcaption {
 
 
 #details > div {
-  display:flex;
+  float:left;
   background-color: red;
   padding: 20px;
 }
 
 div {
-  float: right;
+    display:flex;
 }
