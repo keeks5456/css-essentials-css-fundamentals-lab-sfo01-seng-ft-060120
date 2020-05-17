@@ -27,7 +27,7 @@ figcaption {
 }
 
 #details, div {
-  display: inline;
+  display: inline-block;
   /*float: left;*/
   background-color: red;
   padding: 10px;
