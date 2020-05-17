@@ -33,5 +33,5 @@ figcaption {
 #details > div {
   float: left;
   background-color: red;
-  /*padding: 20px;*/
+  padding: 20px;
 }
