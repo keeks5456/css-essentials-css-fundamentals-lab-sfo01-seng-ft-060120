@@ -38,5 +38,6 @@ figcaption {
 }
 
 div {
+  display:block;
   width: 25%;
 }
