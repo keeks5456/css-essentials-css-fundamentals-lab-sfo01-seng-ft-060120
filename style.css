@@ -38,6 +38,5 @@ figcaption {
 }
 
 footer {
-    display:block;
-    float:left;
+text-align: center;
 }
