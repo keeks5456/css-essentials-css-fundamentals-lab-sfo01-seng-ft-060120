@@ -30,11 +30,8 @@ figcaption {
   padding: 0 10px 0 10px;
 }
 
-section {
-  
-}
 
-#details > div {
+#details, div {
   float: left;
   background-color: red;
   padding: 20px;
