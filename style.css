@@ -32,7 +32,6 @@ figcaption {
 
 #details > div {
   float: left;
-  width: 100%;
   background-color: red;
   /*padding: 20px;*/
 }
