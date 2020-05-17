@@ -39,4 +39,5 @@ figcaption {
 
 footer {
     display:block;
+    float:left;
 }
