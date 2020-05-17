@@ -38,6 +38,7 @@ background-color: red;
 }
 
 footer {
+  display:block;
 text-align: center;
 
 }
