@@ -32,9 +32,7 @@ figcaption {
 
 
 #details > div {
-
-  background-color: red;
-  padding: 20px;
+float:left;
 }
 
 footer {
