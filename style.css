@@ -14,8 +14,8 @@ img {
 }
 
 #featured-property p {
-display: block;
-margin:auto;
+margin-left:auto;
+margin-right: auto;
 width: 800px;
 }
 
